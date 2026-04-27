@@ -36,7 +36,11 @@ body{
 }
 p{
     font-family: "Caveat", cursive;
-    font-size: 125%;
+    font-size: 130%;
+}
+li{
+    font-family: "Caveat", cursive;
+    font-size: 130%;
 }
 .texto{
     margin-left: 10%;
