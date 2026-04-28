@@ -8,7 +8,7 @@ h1{
     border: 2px solid black;
 }
 body{
-    background-image: url(../images/prinbotevolution.jpg);
+    background-color: rgb(205, 241, 255);
 
 }
 .idiomas{
@@ -20,7 +20,7 @@ body{
     float: left;
     text-align: center;
     width: 33%;
-    font-size: 125%;
+    font-size: 150%;
 }
 .esp{
     border: 1px solid black;
@@ -36,13 +36,13 @@ body{
 }
 p{
     font-family: "Caveat", cursive;
-    font-size: 130%;
+    font-size: 150%;
 }
 li{
     font-family: "Caveat", cursive;
-    font-size: 130%;
+    font-size: 150%;
 }
 .texto{
     margin-left: 10%;
-    margin-right: 10%
+    margin-right: 10%;
 }
