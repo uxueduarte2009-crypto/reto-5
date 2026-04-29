@@ -6,6 +6,7 @@ h1{
     text-align: center;
     background-color: rgb(0, 255, 179);
     border: 2px solid black;
+    font-family: "Coiny", system-ui;
 }
 body{
     background-color: rgb(205, 241, 255);
